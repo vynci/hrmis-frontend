@@ -1,0 +1,10 @@
+{
+  "name": "hrmis-front-end",
+  "version": "0.0.1",
+  "author": "zagatek",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
